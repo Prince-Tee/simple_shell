@@ -1,1 +1,1 @@
-c -simple shell
+simple shell
